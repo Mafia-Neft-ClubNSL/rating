@@ -1212,7 +1212,7 @@
                     redWinsCount : 0,
                     blackWinsCount : 0,
                     gamesForRatingCount : 0,
-                    ratingThreshold : .33,
+                    ratingThreshold : .27,
                     currentSort : "name",
                     currentSortOrder : "asc",
                     database : null,
